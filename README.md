@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![The Big Picture Preview](https://startbootstrap.com/assets/img/templates/the-big-picture.jpg)](https://blackrockdigital.github.io/startbootstrap-the-big-picture/)
+[![The Big Picture Preview](./the-big-picture.jpg)](https://blackrockdigital.github.io/startbootstrap-the-big-picture/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-the-big-picture/)**
 
