@@ -1,5 +1,7 @@
 # [Start Bootstrap - The Big Picture](https://startbootstrap.com/template-overviews/the-big-picture/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9b964d34-eeb1-4f13-a896-2678e64db237/deploy-status)](https://app.netlify.com/sites/faala/deploys)
+
 [The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/) is a responsive HTML template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The template features a full page background image and a fixed bottom navigation bar.
 
 ## Preview
