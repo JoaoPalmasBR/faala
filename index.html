@@ -32,10 +32,10 @@
         </div>
 
         <script>
-          if (localStorage.getItem('gotrue.user')){
-              document.getElementById('deslogado').display="none";
-          } else {
+          if (!localStorage.getItem('gotrue.user')){
               document.getElementById('logado').display="none";
+          } else {
+              document.getElementById('deslogado').display="none";
           }
         </script>
         <div class="col-md-3 text-end" id="deslogado">
