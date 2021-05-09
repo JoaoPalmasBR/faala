@@ -72,7 +72,8 @@
             if (!localStorage.getItem('gotrue.user')){
                 document.getElementById("logado").style.display="none";
                 document.getElementById("deslogado").style.display="block";
-            } else {
+            }
+            if (localStorage.getItem('gotrue.user')) {
                 document.getElementById("deslogado").style.display="none";
                 document.getElementById("logado").style.display="block";
             }
