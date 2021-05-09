@@ -71,8 +71,10 @@
         function myFunction() {
             if (!localStorage.getItem('gotrue.user')){
                 document.getElementById("logado").style.display="none";
+                document.getElementById("deslogado").style.display="block";
             } else {
                 document.getElementById("deslogado").style.display="none";
+                document.getElementById("logado").style.display="block";
             }
         }
     </script>
